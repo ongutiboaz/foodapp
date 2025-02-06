@@ -1,0 +1,23 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 4%;
+}
+/* .navbar-logo{ */
+  /* width: max(10% 8px); */
+  /* height: 100px; */
+
+/* } */
+/*.navbar-profile{ */
+   /* display: flex; */
+  /* flex-direction: column;  */
+  
+/* } */
+.navbar .navbar-profile img{
+  width: max(10% 8px);
+ 
+}
+.navbar .navbar-profile p{
+   font-weight: 300;
+}
